@@ -11,7 +11,7 @@ The project is hosted publicly on Firebase. You can access the project at this U
 ## Architecture and Technologies Used
 The project was developed using
 * Frontend - React.js and React Router 
-* Hosting - Firebase (this is a thir- party service)
+* Hosting - Firebase (this is a third- party service)
 
 ## Report of Developments
 
@@ -34,6 +34,7 @@ The project was developed using
 ### Learning:
 * I learned how to build a complete frontend application using React and React Router.
 * Improved skills in building reusable components and managing application state using React.
+* How to deploy a web app on firebase
 
 ### Next Steps:
 * Implement a backend server to support user accounts, recipe saving, and sharing functionalities.
